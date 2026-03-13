@@ -1,6 +1,6 @@
 # Construir una funcion generadora de N empleados que permita crear MOCKS o datos semilla
 import random
-import pandas as pd
+import pandas as pd 
 from datetime import datetime, timedelta
 
 
