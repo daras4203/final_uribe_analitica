@@ -1,1820 +1,1820 @@
 [
     {
-        "producto":" Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster ",
-        "precioUnitario":420000.0,
-        "talla":"S",
-        "cantidad":4.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1770595200000,
-        "total":1680000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
+        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
+        "precioUnitario":null,
         "talla":"XL",
-        "cantidad":null,
-        "vendedor":"Leo Messsi",
-        "fecha":1772150400000,
-        "total":380000
-    },
-    {
-        "producto":" Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n ",
-        "precioUnitario":150000.0,
-        "talla":"XXXL",
         "cantidad":4.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1769212800000,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-01-03",
         "total":600000
     },
     {
-        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n",
-        "precioUnitario":195000.0,
-        "talla":"L",
+        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
+        "precioUnitario":150000.0,
+        "talla":"medio",
         "cantidad":3.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":"10\/01\/2026",
-        "total":585000
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-02-06",
+        "total":450000
     },
     {
-        "producto":" Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n ",
-        "precioUnitario":135000.0,
+        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
+        "precioUnitario":150000.0,
         "talla":"S",
+        "cantidad":4.0,
+        "vendedor":"KYLIAN MBAPP\u00c9",
+        "fecha":"2026-02-10",
+        "total":600000
+    },
+    {
+        "producto":"Camiseta Polo M\/C",
+        "precioUnitario":null,
+        "talla":"XXL",
         "cantidad":2.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1769385600000,
-        "total":270000
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-25",
+        "total":196000
     },
     {
         "producto":"chaqueta tipo trucker en denim para hombre",
         "precioUnitario":820000.0,
-        "talla":"S",
-        "cantidad":3.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1771286400000,
-        "total":2460000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":null,
-        "talla":"S",
-        "cantidad":2.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1767484800000,
-        "total":270000
-    },
-    {
-        "producto":"chaqueta de hombre doble faz cuello alto windbreaker bolsillo canguro en mezcla de algod\u00f3n y poli\u00e9ster",
-        "precioUnitario":420000.0,
-        "talla":"S",
-        "cantidad":1.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1771200000000,
-        "total":420000
-    },
-    {
-        "producto":"Camiseta Polo M\/C",
-        "precioUnitario":98000.0,
-        "talla":"medio",
-        "cantidad":4.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1771200000000,
-        "total":392000
-    },
-    {
-        "producto":" Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n ",
-        "precioUnitario":210000.0,
         "talla":"XS",
-        "cantidad":2.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1769990400000,
-        "total":420000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
-        "precioUnitario":150000.0,
-        "talla":"S",
-        "cantidad":5.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1770508800000,
-        "total":4078
-    },
-    {
-        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
-        "precioUnitario":210000.0,
-        "talla":"XXXL",
-        "cantidad":5.0,
-        "vendedor":"Neymar Jr",
-        "fecha":"03\/02\/2026",
-        "total":1050000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
-        "precioUnitario":null,
-        "talla":"XXXL",
         "cantidad":4.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1770681600000,
-        "total":600000
-    },
-    {
-        "producto":"Camiseta Polo M\/C",
-        "precioUnitario":null,
-        "talla":"M",
-        "cantidad":5.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1771804800000,
-        "total":490000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":135000.0,
-        "talla":"M",
-        "cantidad":3.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":"23\/02\/2026",
-        "total":405000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"XXXL",
-        "cantidad":3.0,
-        "vendedor":" Leo Messsi ",
-        "fecha":1768089600000,
-        "total":1140000
-    },
-    {
-        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
-        "precioUnitario":820000.0,
-        "talla":"XL",
-        "cantidad":4.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1768262400000,
+        "vendedor":"Leo Messi",
+        "fecha":"2026-02-14",
         "total":3280000
     },
     {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"medio",
-        "cantidad":4.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1771718400000,
-        "total":1520000
-    },
-    {
         "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":135000.0,
+        "precioUnitario":200000.0,
         "talla":"L",
-        "cantidad":2.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1771891200000,
-        "total":1041
+        "cantidad":-1.0,
+        "vendedor":"Leo Messi",
+        "fecha":"2026-01-14",
+        "total":600000
     },
     {
-        "producto":"camisa polo de hombre classic fit cuello ner\u00fa manga corta textura piqu\u00e9 jacquard en algod\u00f3n",
-        "precioUnitario":135000.0,
+        "producto":"chaqueta tipo trucker en denim para hombre",
+        "precioUnitario":820000.0,
         "talla":"XL",
         "cantidad":4.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1770681600000,
-        "total":540000
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-28",
+        "total":3280000
     },
     {
-        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
-        "precioUnitario":150000.0,
+        "producto":"jean de hombre rider skinny fit tiro bajo lavado medio rotos detalles en costuras en mezcla de algod\u00f3n",
+        "precioUnitario":357000.0,
         "talla":"S",
-        "cantidad":0.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1771372800000,
-        "total":150000
-    },
-    {
-        "producto":" Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n ",
-        "precioUnitario":195000.0,
-        "talla":"XXXL",
         "cantidad":1.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1770854400000,
-        "total":195000
-    },
-    {
-        "producto":" Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster ",
-        "precioUnitario":380000.0,
-        "talla":"XL",
-        "cantidad":5.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1767830400000,
-        "total":1900000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
-        "precioUnitario":162000.0,
-        "talla":"M",
-        "cantidad":4.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1768694400000,
-        "total":648000
-    },
-    {
-        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
-        "precioUnitario":210000.0,
-        "talla":"XS",
-        "cantidad":5.0,
-        "vendedor":"Leo Messsi",
-        "fecha":"05\/02\/2026",
-        "total":1050000
-    },
-    {
-        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n",
-        "precioUnitario":195000.0,
-        "talla":"XS",
-        "cantidad":2.0,
-        "vendedor":" Ronaldo Nazario ",
-        "fecha":1768089600000,
-        "total":390000
-    },
-    {
-        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n",
-        "precioUnitario":195000.0,
-        "talla":"XL",
-        "cantidad":1.0,
-        "vendedor":" Neymar Jr ",
-        "fecha":1768089600000,
-        "total":195000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
-        "precioUnitario":150000.0,
-        "talla":"XXL",
-        "cantidad":4.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1767916800000,
-        "total":3343
-    },
-    {
-        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
-        "precioUnitario":210000.0,
-        "talla":"XXXL",
-        "cantidad":5.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1768435200000,
-        "total":1050000
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-01-20",
+        "total":357000
     },
     {
         "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"XXXL",
-        "cantidad":2.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1770940800000,
-        "total":4959
+        "precioUnitario":1500000.0,
+        "talla":"S",
+        "cantidad":5.0,
+        "vendedor":"LEO MESSI",
+        "fecha":"2026-01-16",
+        "total":7500000
     },
     {
         "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
         "precioUnitario":820000.0,
         "talla":"XXXL",
-        "cantidad":0.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1768176000000,
-        "total":4100000
+        "cantidad":2.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-01-03",
+        "total":3572
     },
     {
-        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":null,
-        "talla":"XXXL",
-        "cantidad":4.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1767571200000,
-        "total":1680000
+        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
+        "precioUnitario":200000.0,
+        "talla":"S",
+        "cantidad":2.0,
+        "vendedor":"VIRGIL VAN DIJK",
+        "fecha":"2026-01-02",
+        "total":400000
     },
     {
         "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
         "precioUnitario":null,
         "talla":"M",
         "cantidad":4.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1767571200000,
-        "total":512000
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-19",
+        "total":440000
     },
     {
-        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
-        "precioUnitario":150000.0,
-        "talla":"M",
-        "cantidad":2.0,
-        "vendedor":"Neymar Jr",
-        "fecha":"06\/02\/2026",
-        "total":300000
-    },
-    {
-        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
-        "precioUnitario":820000.0,
-        "talla":"M",
-        "cantidad":null,
-        "vendedor":"Andres Iniesta",
-        "fecha":1769731200000,
-        "total":3280000
-    },
-    {
-        "producto":"chaqueta de hombre doble faz cuello alto windbreaker bolsillo canguro en mezcla de algod\u00f3n y poli\u00e9ster",
-        "precioUnitario":420000.0,
-        "talla":"XXXL",
-        "cantidad":5.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1768608000000,
-        "total":2100000
-    },
-    {
-        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
-        "precioUnitario":null,
-        "talla":"M",
+        "producto":"camisa polo de hombre classic fit manga larga varsity con cierre efecto desgaste en algod\u00f3n",
+        "precioUnitario":205000.0,
+        "talla":"S",
         "cantidad":1.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1767830400000,
+        "vendedor":"Eden Hazard",
+        "fecha":"2026-02-03",
+        "total":205000
+    },
+    {
+        "producto":"camisa polo de hombre classic fit cuello ner\u00fa manga corta textura piqu\u00e9 jacquard en algod\u00f3n",
+        "precioUnitario":200000.0,
+        "talla":"XS",
+        "cantidad":4.0,
+        "vendedor":"Cristiano Ronaldo",
+        "fecha":"2026-02-05",
+        "total":800000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
+        "precioUnitario":205000.0,
+        "talla":"XL",
+        "cantidad":4.0,
+        "vendedor":"Neymar Jr",
+        "fecha":"13\/01\/2026",
         "total":820000
     },
     {
-        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
-        "precioUnitario":162000.0,
-        "talla":"M",
-        "cantidad":1.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":"29\/01\/2026",
-        "total":162000
-    },
-    {
-        "producto":" Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n ",
-        "precioUnitario":210000.0,
-        "talla":"XS",
-        "cantidad":3.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1768348800000,
-        "total":630000
-    },
-    {
-        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":null,
-        "talla":"XL",
-        "cantidad":4.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1769299200000,
-        "total":1680000
-    },
-    {
-        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":420000.0,
-        "talla":"M",
-        "cantidad":0.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1769558400000,
-        "total":420000
-    },
-    {
-        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":null,
-        "talla":"XL",
-        "cantidad":2.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1772150400000,
-        "total":840000
-    },
-    {
-        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":420000.0,
-        "talla":"S",
-        "cantidad":3.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1770163200000,
-        "total":1260000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":135000.0,
-        "talla":"XL",
-        "cantidad":3.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1771372800000,
-        "total":405000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":135000.0,
-        "talla":"L",
-        "cantidad":-1.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1767744000000,
-        "total":540000
-    },
-    {
-        "producto":"Camiseta Polo M\/C",
-        "precioUnitario":98000.0,
-        "talla":"XS",
-        "cantidad":2.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":"04\/02\/2026",
-        "total":196000
-    },
-    {
-        "producto":"camisa polo de hombre slim fit cuello ner\u00fa manga corta sesgos en contraste en mezcla de algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"S",
-        "cantidad":4.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1767398400000,
-        "total":512000
-    },
-    {
-        "producto":"Camiseta Polo M\/C",
-        "precioUnitario":98000.0,
-        "talla":"XL",
-        "cantidad":2.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1771977600000,
-        "total":3433
-    },
-    {
-        "producto":" Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n ",
-        "precioUnitario":195000.0,
-        "talla":"S",
-        "cantidad":2.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1772409600000,
-        "total":390000
-    },
-    {
-        "producto":"camiseta polo m\/c",
-        "precioUnitario":98000.0,
-        "talla":"XXXL",
-        "cantidad":4.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1771200000000,
-        "total":392000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"S",
-        "cantidad":0.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1770940800000,
-        "total":384000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":null,
-        "talla":"XXXL",
-        "cantidad":4.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1767830400000,
-        "total":540000
-    },
-    {
         "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
         "precioUnitario":150000.0,
-        "talla":"S",
-        "cantidad":1.0,
-        "vendedor":" Leo Messsi ",
-        "fecha":1768694400000,
-        "total":150000
-    },
-    {
-        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
-        "precioUnitario":null,
-        "talla":"XS",
-        "cantidad":5.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1767830400000,
-        "total":4100000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":135000.0,
         "talla":"medio",
-        "cantidad":5.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1771804800000,
-        "total":675000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
-        "precioUnitario":150000.0,
-        "talla":"XL",
-        "cantidad":null,
-        "vendedor":"Leo Messsi",
-        "fecha":1771891200000,
+        "cantidad":3.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-01-09",
         "total":450000
     },
     {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":128000.0,
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
         "talla":"XS",
-        "cantidad":3.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1768348800000,
-        "total":3021
-    },
-    {
-        "producto":"Camiseta Polo M\/C",
-        "precioUnitario":98000.0,
-        "talla":"XS",
-        "cantidad":1.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1772409600000,
-        "total":4945
-    },
-    {
-        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n",
-        "precioUnitario":null,
-        "talla":"L",
         "cantidad":2.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1772150400000,
-        "total":390000
+        "vendedor":"MOHAMED SALAH",
+        "fecha":"2026-01-23",
+        "total":980000
     },
     {
-        "producto":"camisa polo de hombre classic fit cuello ner\u00fa manga corta textura piqu\u00e9 jacquard en algod\u00f3n",
-        "precioUnitario":135000.0,
+        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
+        "precioUnitario":200000.0,
+        "talla":"XXL",
+        "cantidad":3.0,
+        "vendedor":"KYLIAN MBAPP\u00c9",
+        "fecha":"2026-02-06",
+        "total":600000
+    },
+    {
+        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
+        "precioUnitario":357000.0,
+        "talla":"M",
+        "cantidad":3.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-01-16",
+        "total":4697
+    },
+    {
+        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
+        "precioUnitario":357000.0,
         "talla":"L",
         "cantidad":4.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1771027200000,
-        "total":540000
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-02-13",
+        "total":1428000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
+        "precioUnitario":205000.0,
+        "talla":"L",
+        "cantidad":5.0,
+        "vendedor":"LEO MESSI",
+        "fecha":"2026-02-06",
+        "total":1025000
+    },
+    {
+        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
+        "precioUnitario":357000.0,
+        "talla":"XXXL",
+        "cantidad":2.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"18\/01\/2026",
+        "total":714000
     },
     {
         "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
         "precioUnitario":150000.0,
-        "talla":"S",
-        "cantidad":0.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1769558400000,
+        "talla":"XL",
+        "cantidad":-1.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-01-22",
+        "total":450000
+    },
+    {
+        "producto":"Camiseta Polo M\/C",
+        "precioUnitario":98000.0,
+        "talla":"XL",
+        "cantidad":5.0,
+        "vendedor":"CRISTIANO RONALDO",
+        "fecha":"2026-01-31",
+        "total":490000
+    },
+    {
+        "producto":" Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n ",
+        "precioUnitario":200000.0,
+        "talla":"XL",
+        "cantidad":3.0,
+        "vendedor":"Leo Messi",
+        "fecha":"2026-02-24",
         "total":600000
     },
     {
         "producto":"Camiseta Polo M\/C",
         "precioUnitario":98000.0,
-        "talla":"S",
+        "talla":"L",
+        "cantidad":2.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-14",
+        "total":196000
+    },
+    {
+        "producto":"jean de hombre rider skinny fit tiro bajo lavado medio rotos detalles en costuras en mezcla de algod\u00f3n",
+        "precioUnitario":357000.0,
+        "talla":"M",
+        "cantidad":3.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-02-12",
+        "total":1071000
+    },
+    {
+        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
+        "precioUnitario":357000.0,
+        "talla":"XXXL",
+        "cantidad":0.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-01-13",
+        "total":1785000
+    },
+    {
+        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":680000.0,
+        "talla":"M",
+        "cantidad":5.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"07\/02\/2026",
+        "total":3400000
+    },
+    {
+        "producto":"Camiseta Polo M\/C",
+        "precioUnitario":98000.0,
+        "talla":"XXXL",
         "cantidad":1.0,
-        "vendedor":" Andres Iniesta ",
-        "fecha":1772064000000,
+        "vendedor":"EDEN HAZARD",
+        "fecha":"2026-01-23",
         "total":98000
     },
     {
         "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
         "precioUnitario":820000.0,
-        "talla":"XL",
+        "talla":"medio",
         "cantidad":5.0,
-        "vendedor":" Ronaldinho Gaucho ",
-        "fecha":1768435200000,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-01-28",
         "total":4100000
     },
     {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"S",
-        "cantidad":null,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1769644800000,
-        "total":640000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"S",
-        "cantidad":4.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1772150400000,
-        "total":1813
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
-        "precioUnitario":150000.0,
-        "talla":"M",
-        "cantidad":5.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1770249600000,
-        "total":750000
-    },
-    {
-        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
-        "precioUnitario":820000.0,
-        "talla":"XXL",
-        "cantidad":3.0,
-        "vendedor":" Andres Iniesta ",
-        "fecha":1767916800000,
-        "total":2460000
-    },
-    {
-        "producto":"camiseta polo m\/c",
-        "precioUnitario":98000.0,
-        "talla":"L",
-        "cantidad":5.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1770249600000,
-        "total":490000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":135000.0,
+        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
+        "precioUnitario":357000.0,
         "talla":"medio",
-        "cantidad":5.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1767484800000,
-        "total":675000
-    },
-    {
-        "producto":" Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n ",
-        "precioUnitario":135000.0,
-        "talla":"XXL",
-        "cantidad":1.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1768003200000,
-        "total":135000
+        "cantidad":4.0,
+        "vendedor":"Eden Hazard",
+        "fecha":"2026-03-01",
+        "total":1428000
     },
     {
         "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
-        "precioUnitario":210000.0,
-        "talla":"XS",
-        "cantidad":1.0,
-        "vendedor":" Andres Iniesta ",
-        "fecha":1769990400000,
-        "total":210000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":null,
-        "talla":"S",
-        "cantidad":4.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1768608000000,
-        "total":1520000
-    },
-    {
-        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":420000.0,
-        "talla":"L",
-        "cantidad":2.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1767830400000,
-        "total":1331
-    },
-    {
-        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n",
-        "precioUnitario":195000.0,
-        "talla":"M",
-        "cantidad":0.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1768435200000,
-        "total":975000
-    },
-    {
-        "producto":"camisa polo de hombre classic fit cuello ner\u00fa manga corta textura piqu\u00e9 jacquard en algod\u00f3n",
-        "precioUnitario":135000.0,
-        "talla":"XS",
-        "cantidad":3.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1768780800000,
-        "total":405000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"S",
-        "cantidad":5.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1767657600000,
-        "total":2510
-    },
-    {
-        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n",
-        "precioUnitario":null,
-        "talla":"S",
-        "cantidad":5.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1767657600000,
-        "total":975000
-    },
-    {
-        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
-        "precioUnitario":null,
-        "talla":"XL",
-        "cantidad":4.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1769990400000,
-        "total":840000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"M",
-        "cantidad":3.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1770163200000,
-        "total":1140000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
-        "precioUnitario":150000.0,
-        "talla":"XXL",
-        "cantidad":3.0,
-        "vendedor":"Leo Messsi",
-        "fecha":"10\/01\/2026",
-        "total":450000
-    },
-    {
-        "producto":" Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n ",
-        "precioUnitario":162000.0,
-        "talla":"XXL",
-        "cantidad":3.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1771632000000,
-        "total":486000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"medio",
-        "cantidad":5.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1767830400000,
-        "total":1900000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
-        "precioUnitario":162000.0,
-        "talla":"M",
-        "cantidad":null,
-        "vendedor":"Leo Messsi",
-        "fecha":1770508800000,
-        "total":162000
-    },
-    {
-        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
-        "precioUnitario":null,
-        "talla":"XXXL",
-        "cantidad":1.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1770940800000,
-        "total":210000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"XXXL",
-        "cantidad":1.0,
-        "vendedor":"Neymar Jr",
-        "fecha":"26\/01\/2026",
-        "total":380000
-    },
-    {
-        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n",
-        "precioUnitario":195000.0,
-        "talla":"medio",
-        "cantidad":4.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1770854400000,
-        "total":780000
-    },
-    {
-        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n",
-        "precioUnitario":195000.0,
-        "talla":"XXL",
-        "cantidad":4.0,
-        "vendedor":" Neymar Jr ",
-        "fecha":1769990400000,
-        "total":780000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"XXXL",
-        "cantidad":4.0,
-        "vendedor":" Andres Iniesta ",
-        "fecha":1769990400000,
-        "total":1520000
-    },
-    {
-        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n",
-        "precioUnitario":195000.0,
-        "talla":"M",
-        "cantidad":5.0,
-        "vendedor":" Ronaldinho Gaucho ",
-        "fecha":1769644800000,
-        "total":975000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":null,
-        "talla":"M",
-        "cantidad":5.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1767830400000,
-        "total":675000
-    },
-    {
-        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":420000.0,
-        "talla":"XXXL",
-        "cantidad":2.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1768694400000,
-        "total":4450
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"XS",
-        "cantidad":2.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1767744000000,
-        "total":256000
-    },
-    {
-        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":null,
-        "talla":"L",
-        "cantidad":4.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1771718400000,
-        "total":1680000
-    },
-    {
-        "producto":"chaqueta de hombre bomber acolchada rombos y gr\u00e1ficos bordados en mezcla de algod\u00f3n y poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"XS",
-        "cantidad":5.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1770681600000,
-        "total":1900000
-    },
-    {
-        "producto":" Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n ",
-        "precioUnitario":128000.0,
-        "talla":"S",
-        "cantidad":4.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1768608000000,
-        "total":512000
-    },
-    {
-        "producto":" Chaqueta Tipo Trucker en Denim para Hombre ",
-        "precioUnitario":820000.0,
-        "talla":"M",
-        "cantidad":1.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1770163200000,
-        "total":820000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"XL",
-        "cantidad":2.0,
-        "vendedor":" Ronaldinho Gaucho ",
-        "fecha":1772150400000,
-        "total":256000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
+        "precioUnitario":357000.0,
         "talla":"XXXL",
         "cantidad":5.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1769472000000,
-        "total":1900000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
-        "precioUnitario":162000.0,
-        "talla":"XL",
-        "cantidad":4.0,
-        "vendedor":"Neymar Jr",
-        "fecha":"31\/01\/2026",
-        "total":648000
-    },
-    {
-        "producto":" Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n ",
-        "precioUnitario":195000.0,
-        "talla":"XL",
-        "cantidad":5.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1772064000000,
-        "total":975000
-    },
-    {
-        "producto":"camisa polo de hombre slim fit cuello ner\u00fa manga corta sesgos en contraste en mezcla de algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"XXXL",
-        "cantidad":4.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1769126400000,
-        "total":512000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"XS",
-        "cantidad":3.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1770249600000,
-        "total":384000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":null,
-        "talla":"XXXL",
-        "cantidad":1.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1768348800000,
-        "total":380000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"L",
-        "cantidad":5.0,
-        "vendedor":" Leo Messsi ",
-        "fecha":1770940800000,
-        "total":1900000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":null,
-        "talla":"S",
-        "cantidad":5.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1768867200000,
-        "total":1900000
-    },
-    {
-        "producto":" Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster ",
-        "precioUnitario":380000.0,
-        "talla":"XXL",
-        "cantidad":1.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1769558400000,
-        "total":380000
-    },
-    {
-        "producto":"Camiseta Polo M\/C",
-        "precioUnitario":98000.0,
-        "talla":"L",
-        "cantidad":0.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1770595200000,
-        "total":196000
-    },
-    {
-        "producto":"camisa polo de hombre classic fit manga larga varsity con cierre efecto desgaste en algod\u00f3n",
-        "precioUnitario":162000.0,
-        "talla":"XS",
-        "cantidad":2.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1771977600000,
-        "total":324000
-    },
-    {
-        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
-        "precioUnitario":210000.0,
-        "talla":"medio",
-        "cantidad":3.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1767830400000,
-        "total":630000
-    },
-    {
-        "producto":"chaqueta de hombre bomber acolchada rombos y gr\u00e1ficos bordados en mezcla de algod\u00f3n y poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"XXXL",
-        "cantidad":5.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1771459200000,
-        "total":1900000
-    },
-    {
-        "producto":" Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster ",
-        "precioUnitario":380000.0,
-        "talla":"M",
-        "cantidad":5.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1767312000000,
-        "total":1900000
-    },
-    {
-        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
-        "precioUnitario":820000.0,
-        "talla":"XXXL",
-        "cantidad":1.0,
-        "vendedor":" Leo Messsi ",
-        "fecha":1770249600000,
-        "total":820000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":null,
-        "talla":"L",
-        "cantidad":2.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1770249600000,
-        "total":256000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
-        "precioUnitario":150000.0,
-        "talla":"medio",
-        "cantidad":3.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1768176000000,
-        "total":450000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
-        "precioUnitario":162000.0,
-        "talla":"XXL",
-        "cantidad":5.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1770249600000,
-        "total":810000
-    },
-    {
-        "producto":"Camiseta Polo M\/C",
-        "precioUnitario":98000.0,
-        "talla":"XXL",
-        "cantidad":5.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1767830400000,
-        "total":2855
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"XXL",
-        "cantidad":5.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":"18\/02\/2026",
-        "total":1900000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
-        "precioUnitario":150000.0,
-        "talla":"L",
-        "cantidad":1.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1768953600000,
-        "total":1707
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":135000.0,
-        "talla":"XXL",
-        "cantidad":4.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":"21\/01\/2026",
-        "total":540000
+        "vendedor":"MOHAMED SALAH",
+        "fecha":"2026-01-20",
+        "total":1785000
     },
     {
         "producto":" Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n ",
         "precioUnitario":150000.0,
-        "talla":"M",
-        "cantidad":2.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1771113600000,
-        "total":300000
+        "talla":"S",
+        "cantidad":3.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-01-31",
+        "total":450000
+    },
+    {
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
+        "talla":"medio",
+        "cantidad":3.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-02-22",
+        "total":1470000
     },
     {
         "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":135000.0,
-        "talla":"XL",
-        "cantidad":3.0,
-        "vendedor":" Ronaldo Nazario ",
-        "fecha":1771027200000,
-        "total":405000
-    },
-    {
-        "producto":" Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n ",
-        "precioUnitario":195000.0,
-        "talla":"S",
-        "cantidad":3.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1771113600000,
-        "total":585000
-    },
-    {
-        "producto":" Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n ",
-        "precioUnitario":135000.0,
+        "precioUnitario":200000.0,
         "talla":"XXXL",
         "cantidad":2.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1771027200000,
-        "total":270000
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-01-12",
+        "total":400000
     },
     {
-        "producto":" Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster ",
-        "precioUnitario":380000.0,
-        "talla":"XXL",
-        "cantidad":2.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1769299200000,
-        "total":760000
-    },
-    {
-        "producto":" Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n ",
-        "precioUnitario":210000.0,
-        "talla":"XL",
-        "cantidad":1.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1767398400000,
-        "total":210000
-    },
-    {
-        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
-        "precioUnitario":210000.0,
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
         "talla":"S",
-        "cantidad":0.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1767657600000,
-        "total":210000
+        "cantidad":-1.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-02-28",
+        "total":1960000
     },
     {
-        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
-        "precioUnitario":150000.0,
-        "talla":"S",
-        "cantidad":2.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1768089600000,
-        "total":4180
+        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":null,
+        "talla":"XXXL",
+        "cantidad":5.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-09",
+        "total":7500000
     },
     {
-        "producto":"camisa polo de hombre slim fit manga corta con textura bordado de pato en algod\u00f3n",
-        "precioUnitario":150000.0,
+        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
+        "precioUnitario":200000.0,
         "talla":"M",
-        "cantidad":1.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1767571200000,
-        "total":150000
+        "cantidad":2.0,
+        "vendedor":"VIRGIL VAN DIJK",
+        "fecha":"2026-02-21",
+        "total":400000
     },
     {
         "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
         "precioUnitario":820000.0,
         "talla":"XXXL",
+        "cantidad":4.0,
+        "vendedor":"LEO MESSI",
+        "fecha":"2026-01-21",
+        "total":3280000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
+        "precioUnitario":110000.0,
+        "talla":"XL",
+        "cantidad":0.0,
+        "vendedor":"Cristiano Ronaldo",
+        "fecha":"2026-01-23",
+        "total":110000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"medio",
         "cantidad":3.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":"15\/02\/2026",
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-01-19",
         "total":2460000
     },
     {
-        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
-        "precioUnitario":null,
-        "talla":"XXXL",
-        "cantidad":1.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1768780800000,
-        "total":150000
+        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
+        "precioUnitario":200000.0,
+        "talla":"XXL",
+        "cantidad":3.0,
+        "vendedor":"NEYMAR JR",
+        "fecha":"2026-02-05",
+        "total":600000
     },
     {
-        "producto":"Camiseta Polo M\/C",
-        "precioUnitario":null,
-        "talla":"XXL",
-        "cantidad":1.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1772150400000,
-        "total":98000
+        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":1500000.0,
+        "talla":"L",
+        "cantidad":-1.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-01-28",
+        "total":1500000
     },
     {
         "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":135000.0,
-        "talla":"medio",
-        "cantidad":3.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1770681600000,
-        "total":405000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"XL",
+        "precioUnitario":null,
+        "talla":"L",
         "cantidad":4.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1769472000000,
-        "total":1520000
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-01-02",
+        "total":800000
     },
     {
-        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
-        "precioUnitario":162000.0,
-        "talla":"XXXL",
-        "cantidad":1.0,
-        "vendedor":" Andres Iniesta ",
-        "fecha":1772236800000,
-        "total":162000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
-        "precioUnitario":162000.0,
-        "talla":"medio",
-        "cantidad":1.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1768176000000,
-        "total":162000
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"XS",
+        "cantidad":-1.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-02-09",
+        "total":2460000
     },
     {
         "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"XL",
+        "precioUnitario":1500000.0,
+        "talla":"XS",
         "cantidad":1.0,
-        "vendedor":" Andres Iniesta ",
-        "fecha":1772150400000,
-        "total":380000
+        "vendedor":"Mohamed Salah",
+        "fecha":"17\/01\/2026",
+        "total":1500000
+    },
+    {
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
+        "talla":"S",
+        "cantidad":4.0,
+        "vendedor":"Cristiano Ronaldo",
+        "fecha":"2026-01-21",
+        "total":4299
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
+        "precioUnitario":null,
+        "talla":"L",
+        "cantidad":4.0,
+        "vendedor":"Neymar Jr",
+        "fecha":"2026-01-21",
+        "total":800000
     },
     {
         "producto":"Camiseta Polo M\/C",
         "precioUnitario":98000.0,
-        "talla":"XL",
-        "cantidad":null,
-        "vendedor":"Neymar Jr",
-        "fecha":1767830400000,
-        "total":490000
-    },
-    {
-        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":420000.0,
-        "talla":"L",
-        "cantidad":-1.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1768348800000,
-        "total":840000
-    },
-    {
-        "producto":" Camiseta Polo M\/C ",
-        "precioUnitario":98000.0,
-        "talla":"M",
+        "talla":"S",
         "cantidad":3.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1770249600000,
+        "vendedor":"KYLIAN MBAPP\u00c9",
+        "fecha":"2026-02-02",
         "total":294000
     },
     {
         "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"L",
-        "cantidad":4.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1770422400000,
-        "total":1520000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"L",
-        "cantidad":-1.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1772496000000,
-        "total":640000
-    },
-    {
-        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
         "precioUnitario":null,
-        "talla":"XXL",
-        "cantidad":5.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1771718400000,
-        "total":1050000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
-        "precioUnitario":162000.0,
-        "talla":"L",
-        "cantidad":5.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1770768000000,
-        "total":810000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"medio",
+        "talla":"XL",
         "cantidad":2.0,
         "vendedor":"Neymar Jr",
-        "fecha":1771372800000,
-        "total":760000
+        "fecha":"2026-02-25",
+        "total":3000000
     },
     {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"XL",
-        "cantidad":null,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1768348800000,
-        "total":128000
+        "producto":"camiseta polo m\/c",
+        "precioUnitario":98000.0,
+        "talla":"XXL",
+        "cantidad":1.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-02-24",
+        "total":98000
     },
     {
         "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
+        "precioUnitario":1500000.0,
         "talla":"S",
-        "cantidad":3.0,
-        "vendedor":" Leo Messsi ",
-        "fecha":1768176000000,
-        "total":1140000
+        "cantidad":-1.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-01-11",
+        "total":4500000
     },
     {
         "producto":"camisa polo de hombre classic fit cuello ner\u00fa manga corta textura piqu\u00e9 jacquard en algod\u00f3n",
-        "precioUnitario":135000.0,
+        "precioUnitario":200000.0,
         "talla":"M",
-        "cantidad":1.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1768089600000,
-        "total":135000
-    },
-    {
-        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":420000.0,
-        "talla":"XS",
-        "cantidad":5.0,
-        "vendedor":"Neymar Jr",
-        "fecha":"12\/02\/2026",
-        "total":2100000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"M",
-        "cantidad":1.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1770508800000,
-        "total":380000
-    },
-    {
-        "producto":" Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster ",
-        "precioUnitario":380000.0,
-        "talla":"M",
-        "cantidad":1.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1769904000000,
-        "total":380000
+        "cantidad":2.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-01-02",
+        "total":400000
     },
     {
         "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
         "precioUnitario":150000.0,
+        "talla":"M",
+        "cantidad":4.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-02-22",
+        "total":600000
+    },
+    {
+        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":null,
+        "talla":"L",
+        "cantidad":1.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-23",
+        "total":1500000
+    },
+    {
+        "producto":" Camiseta Polo M\/C ",
+        "precioUnitario":98000.0,
+        "talla":"XXL",
+        "cantidad":3.0,
+        "vendedor":"Leo Messi",
+        "fecha":"2026-02-28",
+        "total":294000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
+        "precioUnitario":200000.0,
+        "talla":"medio",
+        "cantidad":2.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-02-21",
+        "total":400000
+    },
+    {
+        "producto":" Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster ",
+        "precioUnitario":680000.0,
         "talla":"XXXL",
         "cantidad":2.0,
-        "vendedor":" Ronaldo Nazario ",
-        "fecha":1769212800000,
-        "total":300000
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-02-02",
+        "total":1360000
     },
     {
-        "producto":" Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n ",
-        "precioUnitario":150000.0,
-        "talla":"XXL",
-        "cantidad":2.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1772150400000,
-        "total":300000
-    },
-    {
-        "producto":"camisa polo de hombre classic fit cuello ner\u00fa manga corta textura piqu\u00e9 jacquard en algod\u00f3n",
-        "precioUnitario":135000.0,
-        "talla":"XS",
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"XL",
         "cantidad":3.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1767398400000,
-        "total":405000
+        "vendedor":"Eden Hazard",
+        "fecha":"11\/01\/2026",
+        "total":2460000
     },
     {
-        "producto":" Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n ",
-        "precioUnitario":210000.0,
-        "talla":"XS",
-        "cantidad":4.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1768089600000,
-        "total":840000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
-        "precioUnitario":150000.0,
-        "talla":"M",
-        "cantidad":3.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":"01\/02\/2026",
-        "total":450000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"XS",
-        "cantidad":3.0,
-        "vendedor":"Leo Messsi",
-        "fecha":"28\/01\/2026",
-        "total":1140000
-    },
-    {
-        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n",
-        "precioUnitario":null,
-        "talla":"XXL",
-        "cantidad":1.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1769990400000,
-        "total":195000
-    },
-    {
-        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n",
-        "precioUnitario":195000.0,
-        "talla":"medio",
-        "cantidad":3.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1769644800000,
-        "total":585000
-    },
-    {
-        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
-        "precioUnitario":null,
-        "talla":"L",
-        "cantidad":2.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1769558400000,
-        "total":420000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"XXL",
-        "cantidad":2.0,
-        "vendedor":"Neymar Jr",
-        "fecha":"05\/01\/2026",
-        "total":256000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
-        "precioUnitario":150000.0,
-        "talla":"M",
-        "cantidad":5.0,
-        "vendedor":" Neymar Jr ",
-        "fecha":1772496000000,
-        "total":750000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"XS",
-        "cantidad":2.0,
-        "vendedor":" Neymar Jr ",
-        "fecha":1771804800000,
-        "total":256000
-    },
-    {
-        "producto":" Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n ",
-        "precioUnitario":195000.0,
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
         "talla":"S",
-        "cantidad":4.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1767830400000,
-        "total":780000
+        "cantidad":null,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-02-08",
+        "total":490000
     },
     {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":null,
-        "talla":"XXL",
-        "cantidad":2.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1768521600000,
-        "total":256000
-    },
-    {
-        "producto":"jean de hombre skinny fit tiro medio lavado oscuro cl\u00e1sico con raspones en mezcla de algod\u00f3n",
-        "precioUnitario":195000.0,
-        "talla":"M",
-        "cantidad":5.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1771200000000,
-        "total":975000
-    },
-    {
-        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n",
-        "precioUnitario":195000.0,
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
         "talla":"medio",
-        "cantidad":2.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1768867200000,
-        "total":390000
+        "cantidad":3.0,
+        "vendedor":"Cristiano Ronaldo",
+        "fecha":"2026-02-25",
+        "total":1470000
     },
     {
         "producto":"Camiseta Polo M\/C",
         "precioUnitario":98000.0,
-        "talla":"S",
-        "cantidad":2.0,
-        "vendedor":" Andres Iniesta ",
-        "fecha":1769212800000,
-        "total":196000
-    },
-    {
-        "producto":"jean de hombre skinny fit tiro medio lavado oscuro cl\u00e1sico con raspones en mezcla de algod\u00f3n",
-        "precioUnitario":195000.0,
-        "talla":"XXL",
-        "cantidad":1.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1769472000000,
-        "total":195000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"S",
-        "cantidad":1.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1768608000000,
-        "total":3632
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"XL",
-        "cantidad":1.0,
-        "vendedor":" Ronaldinho Gaucho ",
-        "fecha":1767744000000,
-        "total":128000
-    },
-    {
-        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":420000.0,
-        "talla":"S",
-        "cantidad":-1.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1767398400000,
-        "total":1680000
-    },
-    {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":null,
-        "talla":"M",
-        "cantidad":3.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1770681600000,
-        "total":1140000
-    },
-    {
-        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n",
-        "precioUnitario":195000.0,
-        "talla":"medio",
-        "cantidad":5.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1769558400000,
-        "total":975000
-    },
-    {
-        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n",
-        "precioUnitario":195000.0,
-        "talla":"medio",
+        "talla":"XS",
         "cantidad":4.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1768867200000,
-        "total":780000
+        "vendedor":"KYLIAN MBAPP\u00c9",
+        "fecha":"2026-02-25",
+        "total":392000
     },
     {
-        "producto":"camisa polo de hombre slim fit manga corta con textura bordado de pato en algod\u00f3n",
-        "precioUnitario":150000.0,
-        "talla":"S",
-        "cantidad":5.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1770076800000,
-        "total":750000
-    },
-    {
-        "producto":"camisa polo de hombre slim fit cuello ner\u00fa manga corta sesgos en contraste en mezcla de algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"L",
-        "cantidad":3.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1768608000000,
-        "total":384000
-    },
-    {
-        "producto":" Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster ",
-        "precioUnitario":420000.0,
-        "talla":"XXL",
-        "cantidad":2.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1771286400000,
-        "total":840000
-    },
-    {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"S",
-        "cantidad":0.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1772323200000,
-        "total":512000
-    },
-    {
-        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
-        "precioUnitario":820000.0,
-        "talla":"S",
-        "cantidad":1.0,
-        "vendedor":"Leo Messsi",
-        "fecha":"10\/01\/2026",
-        "total":820000
-    },
-    {
-        "producto":"camisa polo de hombre classic fit manga larga varsity con cierre efecto desgaste en algod\u00f3n",
-        "precioUnitario":162000.0,
-        "talla":"XL",
-        "cantidad":1.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1771286400000,
-        "total":162000
-    },
-    {
-        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":420000.0,
-        "talla":"M",
-        "cantidad":4.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1768003200000,
-        "total":4413
-    },
-    {
-        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
-        "precioUnitario":820000.0,
-        "talla":"XXL",
-        "cantidad":5.0,
-        "vendedor":" Ronaldo Nazario ",
-        "fecha":1769212800000,
-        "total":4100000
-    },
-    {
-        "producto":"chaqueta tipo trucker en denim para hombre",
-        "precioUnitario":820000.0,
-        "talla":"XXL",
-        "cantidad":2.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1769385600000,
-        "total":1640000
-    },
-    {
-        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
         "precioUnitario":null,
-        "talla":"M",
-        "cantidad":1.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1770508800000,
-        "total":420000
+        "talla":"S",
+        "cantidad":5.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-02-26",
+        "total":2450000
     },
     {
         "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":135000.0,
+        "precioUnitario":200000.0,
+        "talla":"XS",
+        "cantidad":4.0,
+        "vendedor":"Leo Messi",
+        "fecha":"2026-02-13",
+        "total":800000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
+        "precioUnitario":null,
+        "talla":"L",
+        "cantidad":2.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-01-10",
+        "total":410000
+    },
+    {
+        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
+        "precioUnitario":357000.0,
         "talla":"medio",
         "cantidad":5.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1772496000000,
-        "total":675000
+        "vendedor":"Cristiano Ronaldo",
+        "fecha":"2026-02-21",
+        "total":1785000
     },
     {
-        "producto":" Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n ",
-        "precioUnitario":195000.0,
+        "producto":" Camiseta Polo M\/C ",
+        "precioUnitario":98000.0,
         "talla":"XXL",
-        "cantidad":3.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1771459200000,
-        "total":585000
+        "cantidad":5.0,
+        "vendedor":"Eden Hazard",
+        "fecha":"2026-02-07",
+        "total":490000
     },
     {
-        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":420000.0,
-        "talla":"S",
-        "cantidad":4.0,
+        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
+        "precioUnitario":200000.0,
+        "talla":"M",
+        "cantidad":3.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-02-19",
+        "total":600000
+    },
+    {
+        "producto":"jean de hombre rider skinny fit tiro bajo lavado medio rotos detalles en costuras en mezcla de algod\u00f3n",
+        "precioUnitario":357000.0,
+        "talla":"XXXL",
+        "cantidad":2.0,
         "vendedor":"Neymar Jr",
-        "fecha":1768780800000,
-        "total":1680000
+        "fecha":"2026-02-04",
+        "total":714000
     },
     {
         "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":null,
+        "precioUnitario":110000.0,
+        "talla":"M",
+        "cantidad":5.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"25\/01\/2026",
+        "total":550000
+    },
+    {
+        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":1500000.0,
         "talla":"XXL",
-        "cantidad":4.0,
+        "cantidad":3.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-02-11",
+        "total":2635
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"medio",
+        "cantidad":1.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-01-12",
+        "total":820000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
+        "precioUnitario":null,
+        "talla":"XS",
+        "cantidad":5.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-02-05",
+        "total":1000000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
+        "precioUnitario":110000.0,
+        "talla":"XL",
+        "cantidad":1.0,
+        "vendedor":"Eden Hazard",
+        "fecha":"2026-03-01",
+        "total":110000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
+        "precioUnitario":null,
+        "talla":"L",
+        "cantidad":1.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-02-21",
+        "total":200000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
+        "precioUnitario":205000.0,
+        "talla":"XL",
+        "cantidad":null,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-01-12",
+        "total":615000
+    },
+    {
+        "producto":" Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n ",
+        "precioUnitario":200000.0,
+        "talla":"XXXL",
+        "cantidad":5.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-02-27",
+        "total":1000000
+    },
+    {
+        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
+        "precioUnitario":357000.0,
+        "talla":"M",
+        "cantidad":null,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-25",
+        "total":1785000
+    },
+    {
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":null,
+        "talla":"S",
+        "cantidad":5.0,
         "vendedor":"Neymar Jr",
-        "fecha":1771632000000,
-        "total":512000
+        "fecha":"2026-02-12",
+        "total":2450000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"XS",
+        "cantidad":4.0,
+        "vendedor":"MOHAMED SALAH",
+        "fecha":"2026-01-30",
+        "total":3280000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"S",
+        "cantidad":0.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-02-14",
+        "total":4100000
+    },
+    {
+        "producto":" Chaqueta Tipo Trucker en Denim para Hombre ",
+        "precioUnitario":820000.0,
+        "talla":"XS",
+        "cantidad":5.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-02-06",
+        "total":4100000
+    },
+    {
+        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":680000.0,
+        "talla":"M",
+        "cantidad":5.0,
+        "vendedor":"SADIO MAN\u00c9",
+        "fecha":"2026-01-08",
+        "total":3400000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"XS",
+        "cantidad":4.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-03-01",
+        "total":4907
+    },
+    {
+        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":1500000.0,
+        "talla":"L",
+        "cantidad":3.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-02-27",
+        "total":2742
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"XS",
+        "cantidad":0.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-02-27",
+        "total":4100000
+    },
+    {
+        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":1500000.0,
+        "talla":"L",
+        "cantidad":3.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-13",
+        "total":4500000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"XXL",
+        "cantidad":5.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"29\/01\/2026",
+        "total":4100000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
+        "precioUnitario":200000.0,
+        "talla":"S",
+        "cantidad":5.0,
+        "vendedor":"NEYMAR JR",
+        "fecha":"2026-02-15",
+        "total":1000000
     },
     {
         "producto":" Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n ",
         "precioUnitario":150000.0,
-        "talla":"XXL",
+        "talla":"XS",
+        "cantidad":3.0,
+        "vendedor":"Eden Hazard",
+        "fecha":"2026-01-25",
+        "total":450000
+    },
+    {
+        "producto":" Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n ",
+        "precioUnitario":357000.0,
+        "talla":"XXXL",
+        "cantidad":4.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-02-13",
+        "total":1428000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
+        "precioUnitario":150000.0,
+        "talla":"medio",
         "cantidad":1.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1768262400000,
+        "vendedor":"Neymar Jr",
+        "fecha":"2026-02-07",
         "total":150000
     },
     {
-        "producto":"camisa polo de hombre classic fit cuello ner\u00fa manga corta textura piqu\u00e9 jacquard en algod\u00f3n",
-        "precioUnitario":135000.0,
-        "talla":"L",
-        "cantidad":3.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1769472000000,
-        "total":405000
+        "producto":"Camiseta Polo M\/C",
+        "precioUnitario":98000.0,
+        "talla":"XL",
+        "cantidad":5.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-01-28",
+        "total":4602
     },
     {
-        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
-        "precioUnitario":128000.0,
-        "talla":"medio",
-        "cantidad":1.0,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1768348800000,
-        "total":128000
-    },
-    {
-        "producto":"chaqueta de hombre bomber acolchada rombos y gr\u00e1ficos bordados en mezcla de algod\u00f3n y poli\u00e9ster",
-        "precioUnitario":380000.0,
-        "talla":"L",
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
+        "talla":"XL",
         "cantidad":4.0,
-        "vendedor":"Ronaldinho Gaucho",
-        "fecha":1768176000000,
-        "total":1520000
+        "vendedor":"Cristiano Ronaldo",
+        "fecha":"2026-03-01",
+        "total":3864
     },
     {
         "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
         "precioUnitario":820000.0,
-        "talla":"S",
-        "cantidad":null,
-        "vendedor":"Andres Iniesta",
-        "fecha":1768003200000,
+        "talla":"XL",
+        "cantidad":4.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"28\/01\/2026",
         "total":3280000
     },
     {
         "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":420000.0,
-        "talla":"XXXL",
-        "cantidad":5.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1770076800000,
-        "total":2100000
+        "precioUnitario":680000.0,
+        "talla":"XS",
+        "cantidad":4.0,
+        "vendedor":"Eden Hazard",
+        "fecha":"2026-02-20",
+        "total":2720000
     },
     {
-        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
+        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
+        "precioUnitario":150000.0,
+        "talla":"XS",
+        "cantidad":3.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-01-07",
+        "total":4801
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
+        "precioUnitario":110000.0,
+        "talla":"M",
+        "cantidad":3.0,
+        "vendedor":"Cristiano Ronaldo",
+        "fecha":"2026-01-14",
+        "total":1249
+    },
+    {
+        "producto":"chaqueta de hombre bomber acolchada rombos y gr\u00e1ficos bordados en mezcla de algod\u00f3n y poli\u00e9ster",
+        "precioUnitario":1500000.0,
         "talla":"XXXL",
-        "cantidad":null,
-        "vendedor":"Ronaldo Nazario",
-        "fecha":1771113600000,
-        "total":1520000
+        "cantidad":4.0,
+        "vendedor":"Neymar Jr",
+        "fecha":"2026-01-29",
+        "total":6000000
     },
     {
         "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":135000.0,
+        "precioUnitario":200000.0,
+        "talla":"medio",
+        "cantidad":4.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-01-27",
+        "total":800000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"XXL",
+        "cantidad":5.0,
+        "vendedor":"Cristiano Ronaldo",
+        "fecha":"2026-02-07",
+        "total":4100000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"L",
+        "cantidad":5.0,
+        "vendedor":"EDEN HAZARD",
+        "fecha":"2026-01-16",
+        "total":4100000
+    },
+    {
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
+        "talla":"medio",
+        "cantidad":1.0,
+        "vendedor":"Eden Hazard",
+        "fecha":"2026-01-21",
+        "total":490000
+    },
+    {
+        "producto":" Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous ",
+        "precioUnitario":490000.0,
         "talla":"L",
         "cantidad":2.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1771113600000,
-        "total":270000
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-02",
+        "total":980000
     },
     {
-        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
-        "precioUnitario":135000.0,
-        "talla":"medio",
-        "cantidad":2.0,
-        "vendedor":"Andres Iniesta",
-        "fecha":1770508800000,
-        "total":270000
+        "producto":"jean de hombre rider skinny fit tiro bajo lavado medio rotos detalles en costuras en mezcla de algod\u00f3n",
+        "precioUnitario":357000.0,
+        "talla":"XS",
+        "cantidad":3.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-01-17",
+        "total":1071000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"S",
+        "cantidad":3.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-01-19",
+        "total":2460000
+    },
+    {
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
+        "talla":"XS",
+        "cantidad":null,
+        "vendedor":"Neymar Jr",
+        "fecha":"2026-01-25",
+        "total":490000
     },
     {
         "producto":" Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n ",
         "precioUnitario":150000.0,
-        "talla":"L",
+        "talla":"XXXL",
+        "cantidad":2.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-02-22",
+        "total":300000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
+        "precioUnitario":null,
+        "talla":"XXXL",
+        "cantidad":2.0,
+        "vendedor":"Neymar Jr",
+        "fecha":"2026-01-05",
+        "total":400000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
+        "precioUnitario":150000.0,
+        "talla":"XXXL",
+        "cantidad":5.0,
+        "vendedor":"MOHAMED SALAH",
+        "fecha":"2026-02-02",
+        "total":750000
+    },
+    {
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
+        "talla":"M",
+        "cantidad":3.0,
+        "vendedor":"MOHAMED SALAH",
+        "fecha":"2026-01-04",
+        "total":1470000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
+        "precioUnitario":200000.0,
+        "talla":"M",
+        "cantidad":5.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"27\/02\/2026",
+        "total":1000000
+    },
+    {
+        "producto":" Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n ",
+        "precioUnitario":150000.0,
+        "talla":"XXL",
+        "cantidad":3.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-01-05",
+        "total":450000
+    },
+    {
+        "producto":"Camiseta Polo M\/C",
+        "precioUnitario":98000.0,
+        "talla":"medio",
+        "cantidad":3.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-01-07",
+        "total":294000
+    },
+    {
+        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
+        "precioUnitario":357000.0,
+        "talla":"XS",
+        "cantidad":1.0,
+        "vendedor":"Neymar Jr",
+        "fecha":"2026-02-18",
+        "total":357000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
+        "precioUnitario":205000.0,
+        "talla":"XS",
         "cantidad":4.0,
         "vendedor":"Neymar Jr",
-        "fecha":1767484800000,
-        "total":600000
+        "fecha":"12\/02\/2026",
+        "total":820000
+    },
+    {
+        "producto":" Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n ",
+        "precioUnitario":357000.0,
+        "talla":"XXXL",
+        "cantidad":4.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-02-25",
+        "total":1428000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
+        "precioUnitario":110000.0,
+        "talla":"L",
+        "cantidad":3.0,
+        "vendedor":"CRISTIANO RONALDO",
+        "fecha":"2026-01-20",
+        "total":330000
+    },
+    {
+        "producto":" Chaqueta Tipo Trucker en Denim para Hombre ",
+        "precioUnitario":820000.0,
+        "talla":"S",
+        "cantidad":3.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-02-28",
+        "total":2460000
+    },
+    {
+        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":1500000.0,
+        "talla":"medio",
+        "cantidad":1.0,
+        "vendedor":"Neymar Jr",
+        "fecha":"2026-02-09",
+        "total":1500000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
+        "precioUnitario":110000.0,
+        "talla":"medio",
+        "cantidad":1.0,
+        "vendedor":"Cristiano Ronaldo",
+        "fecha":"2026-02-13",
+        "total":110000
+    },
+    {
+        "producto":"chaqueta de hombre bomber acolchada rombos y gr\u00e1ficos bordados en mezcla de algod\u00f3n y poli\u00e9ster",
+        "precioUnitario":1500000.0,
+        "talla":"XS",
+        "cantidad":2.0,
+        "vendedor":"Eden Hazard",
+        "fecha":"2026-02-10",
+        "total":3000000
+    },
+    {
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
+        "talla":"S",
+        "cantidad":null,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-01-04",
+        "total":490000
+    },
+    {
+        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":680000.0,
+        "talla":"XXXL",
+        "cantidad":0.0,
+        "vendedor":"Cristiano Ronaldo",
+        "fecha":"2026-01-23",
+        "total":680000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"S",
+        "cantidad":null,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-02-20",
+        "total":1640000
+    },
+    {
+        "producto":"Camiseta Polo M\/C",
+        "precioUnitario":98000.0,
+        "talla":"XS",
+        "cantidad":1.0,
+        "vendedor":"VIRGIL VAN DIJK",
+        "fecha":"2026-01-02",
+        "total":98000
+    },
+    {
+        "producto":" Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster ",
+        "precioUnitario":680000.0,
+        "talla":"XXL",
+        "cantidad":4.0,
+        "vendedor":"Eden Hazard",
+        "fecha":"2026-01-28",
+        "total":2720000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"XXL",
+        "cantidad":5.0,
+        "vendedor":"Eden Hazard",
+        "fecha":"2026-02-11",
+        "total":4100000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"XS",
+        "cantidad":2.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"11\/01\/2026",
+        "total":1640000
+    },
+    {
+        "producto":" Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster ",
+        "precioUnitario":680000.0,
+        "talla":"XL",
+        "cantidad":1.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-01-03",
+        "total":680000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
+        "precioUnitario":150000.0,
+        "talla":"medio",
+        "cantidad":1.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-26",
+        "total":150000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"S",
+        "cantidad":2.0,
+        "vendedor":"Neymar Jr",
+        "fecha":"02\/01\/2026",
+        "total":1640000
+    },
+    {
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
+        "talla":"M",
+        "cantidad":2.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-10",
+        "total":1160
+    },
+    {
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
+        "talla":"XL",
+        "cantidad":5.0,
+        "vendedor":"Eden Hazard",
+        "fecha":"2026-02-01",
+        "total":1488
+    },
+    {
+        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
+        "precioUnitario":357000.0,
+        "talla":"medio",
+        "cantidad":5.0,
+        "vendedor":"Eden Hazard",
+        "fecha":"2026-02-05",
+        "total":1785000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
+        "precioUnitario":150000.0,
+        "talla":"XS",
+        "cantidad":1.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-02-03",
+        "total":1779
+    },
+    {
+        "producto":"Camiseta Polo M\/C",
+        "precioUnitario":98000.0,
+        "talla":"medio",
+        "cantidad":4.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-01-27",
+        "total":392000
+    },
+    {
+        "producto":"Camiseta Polo M\/C",
+        "precioUnitario":98000.0,
+        "talla":"L",
+        "cantidad":-1.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-02-09",
+        "total":196000
+    },
+    {
+        "producto":" Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n ",
+        "precioUnitario":110000.0,
+        "talla":"XL",
+        "cantidad":1.0,
+        "vendedor":"Leo Messi",
+        "fecha":"2026-01-02",
+        "total":110000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
+        "precioUnitario":110000.0,
+        "talla":"medio",
+        "cantidad":3.0,
+        "vendedor":"Leo Messi",
+        "fecha":"2026-03-03",
+        "total":330000
+    },
+    {
+        "producto":"chaqueta tipo trucker en denim para hombre",
+        "precioUnitario":820000.0,
+        "talla":"S",
+        "cantidad":1.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-02-16",
+        "total":820000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
+        "precioUnitario":150000.0,
+        "talla":"XS",
+        "cantidad":1.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"21\/02\/2026",
+        "total":150000
+    },
+    {
+        "producto":" Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n ",
+        "precioUnitario":357000.0,
+        "talla":"XXXL",
+        "cantidad":2.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-02-22",
+        "total":714000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
+        "precioUnitario":205000.0,
+        "talla":"XXL",
+        "cantidad":4.0,
+        "vendedor":"EDEN HAZARD",
+        "fecha":"2026-02-20",
+        "total":820000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
+        "precioUnitario":null,
+        "talla":"S",
+        "cantidad":1.0,
+        "vendedor":"Neymar Jr",
+        "fecha":"2026-02-07",
+        "total":200000
+    },
+    {
+        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":680000.0,
+        "talla":"XS",
+        "cantidad":1.0,
+        "vendedor":"Cristiano Ronaldo",
+        "fecha":"13\/01\/2026",
+        "total":680000
+    },
+    {
+        "producto":"jean de hombre rider skinny fit tiro bajo lavado medio rotos detalles en costuras en mezcla de algod\u00f3n",
+        "precioUnitario":357000.0,
+        "talla":"XS",
+        "cantidad":4.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-03-02",
+        "total":1428000
+    },
+    {
+        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":680000.0,
+        "talla":"XXL",
+        "cantidad":4.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-01",
+        "total":4099
+    },
+    {
+        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
+        "precioUnitario":357000.0,
+        "talla":"XL",
+        "cantidad":2.0,
+        "vendedor":"EDEN HAZARD",
+        "fecha":"2026-02-09",
+        "total":714000
+    },
+    {
+        "producto":"chaqueta de hombre bomber acolchada rombos y gr\u00e1ficos bordados en mezcla de algod\u00f3n y poli\u00e9ster",
+        "precioUnitario":1500000.0,
+        "talla":"M",
+        "cantidad":5.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-02-03",
+        "total":7500000
+    },
+    {
+        "producto":"chaqueta de hombre doble faz cuello alto windbreaker bolsillo canguro en mezcla de algod\u00f3n y poli\u00e9ster",
+        "precioUnitario":680000.0,
+        "talla":"XXXL",
+        "cantidad":1.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-02-02",
+        "total":680000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
+        "precioUnitario":205000.0,
+        "talla":"L",
+        "cantidad":3.0,
+        "vendedor":"Leo Messi",
+        "fecha":"24\/02\/2026",
+        "total":615000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
+        "precioUnitario":205000.0,
+        "talla":"XXL",
+        "cantidad":5.0,
+        "vendedor":"Leo Messi",
+        "fecha":"22\/02\/2026",
+        "total":1025000
+    },
+    {
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
+        "talla":"S",
+        "cantidad":1.0,
+        "vendedor":"VIRGIL VAN DIJK",
+        "fecha":"2026-02-02",
+        "total":490000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
+        "precioUnitario":205000.0,
+        "talla":"medio",
+        "cantidad":2.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-03-02",
+        "total":410000
+    },
+    {
+        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":1500000.0,
+        "talla":"XS",
+        "cantidad":4.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"26\/02\/2026",
+        "total":6000000
+    },
+    {
+        "producto":"Camiseta Polo M\/C",
+        "precioUnitario":98000.0,
+        "talla":"L",
+        "cantidad":3.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"16\/02\/2026",
+        "total":294000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"M",
+        "cantidad":3.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"09\/01\/2026",
+        "total":2460000
+    },
+    {
+        "producto":"camisa polo de hombre slim fit cuello ner\u00fa manga corta sesgos en contraste en mezcla de algod\u00f3n",
+        "precioUnitario":110000.0,
+        "talla":"XS",
+        "cantidad":2.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-03",
+        "total":220000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
+        "precioUnitario":110000.0,
+        "talla":"medio",
+        "cantidad":2.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-02-26",
+        "total":220000
+    },
+    {
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
+        "talla":"XXXL",
+        "cantidad":3.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-01-04",
+        "total":1470000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
+        "precioUnitario":150000.0,
+        "talla":"L",
+        "cantidad":1.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-02-23",
+        "total":1194
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"medio",
+        "cantidad":4.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-03-02",
+        "total":3280000
+    },
+    {
+        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
+        "precioUnitario":357000.0,
+        "talla":"XXXL",
+        "cantidad":1.0,
+        "vendedor":"SADIO MAN\u00c9",
+        "fecha":"2026-01-10",
+        "total":357000
+    },
+    {
+        "producto":"Camiseta Polo M\/C",
+        "precioUnitario":98000.0,
+        "talla":"XXL",
+        "cantidad":5.0,
+        "vendedor":"Neymar Jr",
+        "fecha":"2026-01-23",
+        "total":3118
     },
     {
         "producto":"Camiseta Polo M\/C",
         "precioUnitario":98000.0,
         "talla":"L",
         "cantidad":2.0,
-        "vendedor":" Ronaldo Nazario ",
-        "fecha":1767916800000,
-        "total":196000
+        "vendedor":"Cristiano Ronaldo",
+        "fecha":"2026-01-11",
+        "total":1746
     },
     {
-        "producto":" Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n ",
-        "precioUnitario":135000.0,
-        "talla":"M",
-        "cantidad":5.0,
-        "vendedor":"Neymar Jr",
-        "fecha":1771027200000,
-        "total":675000
-    },
-    {
-        "producto":" Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster ",
-        "precioUnitario":420000.0,
-        "talla":"S",
-        "cantidad":4.0,
-        "vendedor":"Leo Messsi",
-        "fecha":1770595200000,
-        "total":1680000
+        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
+        "precioUnitario":205000.0,
+        "talla":"L",
+        "cantidad":-1.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-02-03",
+        "total":205000
     },
     {
         "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
-        "precioUnitario":380000.0,
+        "precioUnitario":1500000.0,
+        "talla":"XS",
+        "cantidad":5.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-02-03",
+        "total":4563
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
+        "precioUnitario":null,
+        "talla":"XXL",
+        "cantidad":3.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-02-06",
+        "total":615000
+    },
+    {
+        "producto":" Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster ",
+        "precioUnitario":680000.0,
+        "talla":"XXXL",
+        "cantidad":4.0,
+        "vendedor":"Eden Hazard",
+        "fecha":"2026-02-04",
+        "total":2720000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
+        "precioUnitario":150000.0,
+        "talla":"XXXL",
+        "cantidad":4.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-01-15",
+        "total":600000
+    },
+    {
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
+        "talla":"M",
+        "cantidad":2.0,
+        "vendedor":"MOHAMED SALAH",
+        "fecha":"2026-01-19",
+        "total":980000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"M",
+        "cantidad":1.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"07\/02\/2026",
+        "total":820000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"medio",
+        "cantidad":4.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-01-09",
+        "total":3280000
+    },
+    {
+        "producto":"Camiseta Polo M\/C",
+        "precioUnitario":98000.0,
+        "talla":"XXL",
+        "cantidad":2.0,
+        "vendedor":"MOHAMED SALAH",
+        "fecha":"2026-02-10",
+        "total":196000
+    },
+    {
+        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":null,
+        "talla":"XXL",
+        "cantidad":4.0,
+        "vendedor":"Kylian Mbapp\u00e9",
+        "fecha":"2026-02-03",
+        "total":2720000
+    },
+    {
+        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":680000.0,
+        "talla":"S",
+        "cantidad":3.0,
+        "vendedor":"LEO MESSI",
+        "fecha":"2026-01-27",
+        "total":2040000
+    },
+    {
+        "producto":" Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n ",
+        "precioUnitario":200000.0,
+        "talla":"XXL",
+        "cantidad":5.0,
+        "vendedor":"Neymar Jr",
+        "fecha":"2026-02-27",
+        "total":1000000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Cuello Ner\u00fa Manga Corta Textura Piqu\u00e9 Jacquard en Algod\u00f3n",
+        "precioUnitario":200000.0,
+        "talla":"L",
+        "cantidad":5.0,
+        "vendedor":"Cristiano Ronaldo",
+        "fecha":"23\/02\/2026",
+        "total":1000000
+    },
+    {
+        "producto":"Camiseta Polo M\/C",
+        "precioUnitario":null,
+        "talla":"XS",
+        "cantidad":4.0,
+        "vendedor":"Neymar Jr",
+        "fecha":"2026-02-10",
+        "total":392000
+    },
+    {
+        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":1500000.0,
         "talla":"XL",
+        "cantidad":2.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-02-18",
+        "total":1650
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Cuello Ner\u00fa Manga Corta Sesgos en Contraste en Mezcla de Algod\u00f3n",
+        "precioUnitario":110000.0,
+        "talla":"XL",
+        "cantidad":1.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-01-04",
+        "total":110000
+    },
+    {
+        "producto":" Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n ",
+        "precioUnitario":357000.0,
+        "talla":"XL",
+        "cantidad":2.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-03-03",
+        "total":714000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"XXXL",
         "cantidad":null,
-        "vendedor":"Leo Messsi",
-        "fecha":1772150400000,
-        "total":380000
+        "vendedor":"Leo Messi",
+        "fecha":"2026-02-10",
+        "total":3280000
+    },
+    {
+        "producto":"chaqueta tipo trucker en denim para hombre",
+        "precioUnitario":820000.0,
+        "talla":"S",
+        "cantidad":4.0,
+        "vendedor":"Leo Messi",
+        "fecha":"2026-02-22",
+        "total":3280000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
+        "precioUnitario":205000.0,
+        "talla":"S",
+        "cantidad":5.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-01-08",
+        "total":2281
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
+        "precioUnitario":205000.0,
+        "talla":"XS",
+        "cantidad":2.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-01-14",
+        "total":410000
+    },
+    {
+        "producto":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Cl\u00e1sico con Raspones en Mezcla de Algod\u00f3n Famous",
+        "precioUnitario":490000.0,
+        "talla":"medio",
+        "cantidad":5.0,
+        "vendedor":"Eden Hazard",
+        "fecha":"2026-01-04",
+        "total":2450000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"S",
+        "cantidad":1.0,
+        "vendedor":"Cristiano Ronaldo",
+        "fecha":"30\/01\/2026",
+        "total":820000
+    },
+    {
+        "producto":"camisa polo de hombre classic fit cuello ner\u00fa manga corta textura piqu\u00e9 jacquard en algod\u00f3n",
+        "precioUnitario":200000.0,
+        "talla":"XL",
+        "cantidad":5.0,
+        "vendedor":"Neymar Jr",
+        "fecha":"2026-03-03",
+        "total":1000000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algod\u00f3n",
+        "precioUnitario":205000.0,
+        "talla":"XXXL",
+        "cantidad":0.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-01-08",
+        "total":820000
+    },
+    {
+        "producto":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":680000.0,
+        "talla":"XS",
+        "cantidad":2.0,
+        "vendedor":"Leo Messi",
+        "fecha":"18\/02\/2026",
+        "total":1360000
+    },
+    {
+        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":1500000.0,
+        "talla":"XL",
+        "cantidad":4.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-02-17",
+        "total":6000000
+    },
+    {
+        "producto":"Chaqueta Tipo Trucker en Denim para Hombre",
+        "precioUnitario":820000.0,
+        "talla":"S",
+        "cantidad":4.0,
+        "vendedor":"Neymar Jr",
+        "fecha":"08\/01\/2026",
+        "total":3280000
+    },
+    {
+        "producto":"camisa polo de hombre classic fit manga larga varsity con cierre efecto desgaste en algod\u00f3n",
+        "precioUnitario":205000.0,
+        "talla":"S",
+        "cantidad":2.0,
+        "vendedor":"Mohamed Salah",
+        "fecha":"2026-02-06",
+        "total":410000
+    },
+    {
+        "producto":"Chaqueta de Hombre Bomber Acolchada Rombos y Gr\u00e1ficos Bordados en Mezcla de Algod\u00f3n y Poli\u00e9ster",
+        "precioUnitario":1500000.0,
+        "talla":"L",
+        "cantidad":4.0,
+        "vendedor":"CRISTIANO RONALDO",
+        "fecha":"2026-02-14",
+        "total":6000000
+    },
+    {
+        "producto":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algod\u00f3n",
+        "precioUnitario":357000.0,
+        "talla":"M",
+        "cantidad":null,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-02-05",
+        "total":714000
+    },
+    {
+        "producto":"Camiseta Polo M\/C",
+        "precioUnitario":98000.0,
+        "talla":"M",
+        "cantidad":-1.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-17",
+        "total":490000
+    },
+    {
+        "producto":"chaqueta de hombre doble faz cuello alto windbreaker bolsillo canguro en mezcla de algod\u00f3n y poli\u00e9ster",
+        "precioUnitario":680000.0,
+        "talla":"L",
+        "cantidad":3.0,
+        "vendedor":"Virgil van Dijk",
+        "fecha":"2026-02-14",
+        "total":2040000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
+        "precioUnitario":null,
+        "talla":"XL",
+        "cantidad":4.0,
+        "vendedor":"Sadio Man\u00e9",
+        "fecha":"2026-01-03",
+        "total":600000
+    },
+    {
+        "producto":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algod\u00f3n",
+        "precioUnitario":150000.0,
+        "talla":"medio",
+        "cantidad":3.0,
+        "vendedor":"Kevin De Bruyne",
+        "fecha":"2026-02-06",
+        "total":450000
     }
 ]
