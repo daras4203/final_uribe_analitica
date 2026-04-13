@@ -1,29 +1,27 @@
-#Construir una funcion generadora de N ventas que permita crear MOCKS o datos semilla para la rutina de analisis
+# una funcion generadora de N ventas que permita crear MOCKS o datos semilla para la rutina de analisis
 import random
-import pandas as pd
 from datetime import datetime, timedelta
 
-
 def generar_ventas(numeroVentas):
-
-    # Lista de productos simulados
-    productos = [
-        {"nombre": "Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algodón", "precio": 150000, "descuento": False},
-        {"nombre": "Camisa Polo de Hombre Classic Fit Cuello Nerú Manga Corta Textura Piqué Jacquard en Algodón", "precio": 135000, "descuento": False},
-        {"nombre": "Camisa Polo de Hombre Slim Fit Cuello Nerú Manga Corta Sesgos en Contraste en Mezcla de Algodón", "precio": 128000, "descuento": True},
-        {"nombre": "Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algodón", "precio": 162000, "descuento": False},
-        {"nombre": "Camiseta Polo M/C", "precio": 98000, "descuento": False},
-        {"nombre": "Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Clásico con Raspones en Mezcla de Algodón", "precio": 195000, "descuento": True},
-        {"nombre": "Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algodón", "precio": 210000, "descuento": False},
-        {"nombre": "Chaqueta de Hombre Bomber Acolchada Rombos y Gráficos Bordados en Mezcla de Algodón y Poliéster", "precio": 380000, "descuento": True},
-        {"nombre": "Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algodón y Poliéster", "precio": 420000, "descuento": False},
-        {"nombre": "Chaqueta Tipo Trucker en Denim para Hombre", "precio": 820000, "descuento": False},
+    
+    # Simular una lista de productos
+    productos=[
+        {"nombre":"Camisa Polo de Hombre Slim Fit Manga Corta con Textura Bordado de Pato en Algodón","precio":150000,"descuento":False},
+        {"nombre":"Camisa Polo de Hombre Classic Fit Cuello Nerú Manga Corta Textura Piqué Jacquard en Algodón","precio":200000,"descuento":False},
+        {"nombre":"Camisa Polo de Hombre Slim Fit Cuello Nerú Manga Corta Sesgos en Contraste en Mezcla de Algodón","precio":110000,"descuento":True},
+        {"nombre":"Camisa Polo de Hombre Classic Fit Manga Larga Varsity con Cierre Efecto Desgaste en Algodón","precio":205000,"descuento":False},
+        {"nombre":"Camiseta Polo M/C","precio":98000,"descuento":False},
+        {"nombre":"Jean de Hombre Skinny Fit Tiro Medio Lavado Oscuro Clásico con Raspones en Mezcla de Algodón Famous","precio":490000,"descuento":False},
+        {"nombre":"Jean de Hombre Rider Skinny Fit Tiro Bajo Lavado Medio Rotos Detalles en Costuras en Mezcla de Algodón","precio":357000,"descuento":True},
+        {"nombre":"Chaqueta de Hombre Bomber Acolchada Rombos y Gráficos Bordados en Mezcla de Algodón y Poliéster","precio":1500000,"descuento":False},
+        {"nombre":"Chaqueta de Hombre Doble Faz Cuello Alto Windbreaker Bolsillo Canguro en Mezcla de Algodón y Poliéster","precio":680000,"descuento":False},
+        {"nombre":"Chaqueta Tipo Trucker en Denim para Hombre","precio":820000,"descuento":False}
     ]
 
-    # Lista de tallas
-    tallas = ["XS", "S", "M", "L", "XL", "XXL", "XXXL"]
+    # Simular una lista de tallas
+    tallas=["XS","S","M","L","XL","XXL","XXXL"]
 
-    # Lista de vendedores
+    # Simular vendedores
     vendedores = [
         "Leo Messi",
         "Cristiano Ronaldo",
@@ -35,27 +33,52 @@ def generar_ventas(numeroVentas):
         "Sadio Mané",
         "Eden Hazard"
     ]
+    # Simular fecha base
+    fechaInicio=datetime(2026,1,2)
 
-    # Fecha inicial para las ventas
-    fechaInicio = datetime(2026, 1, 2)
+    # Generar las ventas
+    ventas=[]
+    for _ in range(numeroVentas):
 
-    ventas = []
+        producto=random.choice(productos)
+        cantidad=random.randint(1,5)
+        fecha=fechaInicio+timedelta(days=random.randint(0,60))
 
-    # Generar ventas simuladas
-    for i in range(numeroVentas):
+        venta={
+            "producto":producto["nombre"],
+            "precioUnitario":producto["precio"],
+            "talla":random.choice(tallas),
+            "cantidad":cantidad,
+            "vendedor":random.choice(vendedores),
+            "fecha":fecha.strftime("%Y-%m-%d"),
+            "total":cantidad*producto["precio"]
+        }
 
-        producto = random.choice(productos)
-        cantidad = random.randint(1, 5)
-        fecha = fechaInicio + timedelta(days=random.randint(0, 60))
+        # Inyectando errores de calidad en los datos
+        probabilidadError=random.random()
 
-        ventas.append({
-            "producto": producto["nombre"],
-            "precioUnitario": producto["precio"],
-            "talla": random.choice(tallas),
-            "cantidad": cantidad,
-            "vendedor": random.choice(vendedores),
-            "fecha": fecha,
-            "total": cantidad * producto["precio"]
-        })
+        if probabilidadError<0.15:
+            venta["producto"]=" "+venta["producto"]+" "
+        elif probabilidadError<0.30:
+            venta["vendedor"]=venta["vendedor"].upper()
+        elif probabilidadError<0.40:
+            venta["talla"]="medio"
+        elif probabilidadError<0.50:
+            venta["cantidad"]=random.choice([0,-1,None])
+        elif probabilidadError<0.60:
+            venta["precioUnitario"]=None
+        elif probabilidadError<0.70:
+            venta["fecha"]=fecha.strftime("%d/%m/%Y")
+        elif probabilidadError<0.80:
+            venta["total"]=random.randint(1000,5000)
+        elif probabilidadError<0.90:
+            venta["producto"]=venta["producto"].lower()
+
+        ventas.append(venta)
+
+    # Inyectar duplicados
+    if len(ventas)>=50:
+        ventas.append(ventas[0].copy())
+        ventas.append(ventas[1].copy())
 
     return ventas
